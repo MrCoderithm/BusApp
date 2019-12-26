@@ -7,7 +7,40 @@
 		<key>BusApp.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>1</integer>
+		</dict>
+		<key>tvOS.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>13</integer>
+		</dict>
+		<key>w9WatchConnectivity WatchKit (Notification).xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>15</integer>
+		</dict>
+		<key>w9WatchConnectivity WatchKit.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>14</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>684CF9DF239E31E200354D57</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>68D91CF9239E285200961085</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>68FC0ED0236277D200AB883B</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
